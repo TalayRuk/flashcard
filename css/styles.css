@@ -2,41 +2,41 @@
   cursor: pointer;
   color: green;
 }
-.showing1 {
+#clickable1 {
   display: none;
 }
 .clickable2 {
   cursor: pointer;
   color: green;
 }
-.showing2 {
+#clickable2 {
   display: none;
 }
 .clickable3 {
   cursor: pointer;
   color: green;
 }
-.showing3 {
+#clickable3 {
   display: none;
 }
 .clickable4 {
   cursor: pointer;
   color: green;
 }
-.showing4 {
+#clickable4 {
   display: none;
 }
 .clickable5 {
   cursor: pointer;
   color: green;
 }
-.showing5 {
+#clickable5 {
   display: none;
 }
 .clickable6 {
   cursor: pointer;
   color: green;
 }
-.showing6 {
+#clickable6 {
   display: none;
 }
