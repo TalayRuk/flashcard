@@ -4,9 +4,10 @@ $(function(){
     var phrases = ['clickable1', 'clickable2', 'clickable3', 'clickable4', 'clickable5', 'clickable6'];
     // console.log($("#clickable2").text());
     phrases.forEach(function(phrase){
-      $("." + phrase).click(function() {
+      var point = $("." + phrase).click(function() {
+      $("."+ phrase).toggle(point);
         // $(this).children().toggle();
-        $(this).children().toggle();
+        // $(this).children().toggle();
 
       });
 

@@ -1,46 +1,7 @@
-.clickable1 {
+.clickable {
   cursor: pointer;
   color: green;
 }
-#clickable1 {
+p {
   display: none;
-}
-.clickable2 {
-  cursor: pointer;
-  color: green;
-}
-#clickable2 {
-  display: none;
-}
-.clickable3 {
-  cursor: pointer;
-  color: green;
-}
-#clickable3 {
-  display: none;
-}
-.clickable4 {
-  cursor: pointer;
-  color: green;
-}
-#clickable4 {
-  display: none;
-}
-.clickable5 {
-  cursor: pointer;
-  color: green;
-}
-#clickable5 {
-  display: none;
-}
-.clickable6 {
-  cursor: pointer;
-  color: green;
-}
-#clickable6 {
-  display: none;
-}
-
-.hidden {
-  display:none;
 }
